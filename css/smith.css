@@ -1,0 +1,55 @@
+.col-lg-9{
+	border: 2px;
+	border-color: black;
+	background-color: #A8A8A8;
+	opacity: .9;
+	
+}
+/* centered columns styles */
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:center;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+.myfooter {
+    height: 80px;
+    width: 100%;
+    bottom: inherit;
+}
+
+.smith_logo {
+    padding-top: 20px;
+    width: 35%;
+}
+
+#download {
+    height: 35px;
+    margin-top: -4px;
+    border-radius: 0px 5px 5px 0;
+    background-color: #E6E7E9;
+}
+
+.download_box div p, a {
+    display: inline-block;
+    font-size: large;
+    margin: 0;
+}
+
+.download_box div p {
+    color: #171718;
+    padding: 5px 23px 5px 9px;
+}
+
+.around {
+    width: 302.82px;
+    margin: 0 auto 10px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
